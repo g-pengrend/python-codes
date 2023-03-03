@@ -12,3 +12,5 @@ elif symbol == "*":
     ans = num1 * num2
 
 print("The answer is: ", num1)
+
+" HAHA HOW ARE YOU DOING, thanks for adding"
